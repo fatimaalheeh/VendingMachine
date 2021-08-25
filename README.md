@@ -1,6 +1,6 @@
 # VendingMachine
 ### Start:
-1. use VS code, download python extension, you also need python to be installed on your system
+1. use VS code, download python extension, you also need python to be installed on your system or just double click the interface.py file and start writing commands.
 2. first command is: restock as the inventory is empty by default
 3. second command: inventory
 4. you can write: start: to see the architecture of the snacks in the vending machine
@@ -9,14 +9,14 @@
 
 |   **Command**  |   **Description**   |  **Syntax**  |
 | -------------- | --------------------- | ---------------------|
-| `buy <item>` | Purchase item from machine. Item count will reflect change |buy snackName|
-| `check <item>` | Checks price and quantity of an item |check snackName|
-| `price <item>` | Changes the price of an item |price snackName newPrice|
-| `start` | Prints the hash table schems |start|
-| `inventory` | Prints the vending machine inventory |inventory|
-| `money` | Prints total value of vending machine items |money|
-| `restock` | Restocks the vending machine |restock|
-| `quit` | Exits the program |quit|
+| `buy <item>` | buy snack from vendor. snack quantity will get updated |buy snackName|
+| `check <item>` | Checks price and quantity of snack |check snackName|
+| `price <item>` | update  price of an snack |price snackName newPrice|
+| `start` | show the hash table schems |start|
+| `inventory` | show the vending machine inventory |inventory|
+| `money` | show total value of vending machine items |money|
+| `restock` | show the vending machine |restock|
+| `quit` | quit|quit|
 
 
 #### A use Case 
