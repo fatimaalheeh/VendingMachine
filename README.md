@@ -48,3 +48,4 @@ Dropss cost $0.30.
 I got a total of $84.50 that is the cost of all the Snacks I got
 *DinDing* quit
 
+<img width="1677" alt="UML, useCase, functionality" src="https://user-images.githubusercontent.com/59444389/130875400-5a6101ee-ac2b-44a8-bb8d-ea2d7963f46b.png">
